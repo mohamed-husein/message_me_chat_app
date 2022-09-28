@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878997752994",
+    "project_id": "message-me-5bda2",
+    "storage_bucket": "message-me-5bda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878997752994:android:67adf19875497146441bfb",
+        "android_client_info": {
+          "package_name": "com.elmatbouly.message_me_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878997752994-cootcfnpkhfn99ns9gugsr2oh3uahla8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elmatbouly.message_me_chat_app",
+            "certificate_hash": "f393a163dd0846f682dea9e8a39cd37ad40a2042"
+          }
+        },
+        {
+          "client_id": "878997752994-l0qpbie7mqb4g0nq5rf49l3dntt8lpeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Pjqui_2vadevWEoiAHuMvkUyXhh6dQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878997752994-l0qpbie7mqb4g0nq5rf49l3dntt8lpeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
